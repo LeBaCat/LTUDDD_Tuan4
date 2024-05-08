@@ -5,6 +5,6 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".tuan2.MainActivity5">
+    tools:context=".tuan3.T3ListviewMainActivity">
 
 </androidx.constraintlayout.widget.ConstraintLayout>
